@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🏛️ I’m an Applied Scientist II at Microsoft India Development Centre (Search Technology Centre India).
+- 🏛️ I’m an Applied Scientist II at Microsoft India Development Centre (Search Technology Centre India)
 - 🔭 I’m currently working on Graph Intelligence, Ranking, and Recommendations through Machine Learning (shallow and deep)
+- 🏫 I received my PhD and Masters from the Dept. of Computer Science and Engineering, Indian Institute of Technology Guwahati (IITG)
+- 🏙️ I have lived in lovely cities - Dehradun-Delhi-Guwahati (India), Edinburgh (UK), Berlin (Germany)
 
 
 <!--
