@@ -6,7 +6,7 @@
 
 [<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/1200px-Linkedin.svg.png" />](https://www.linkedin.com/in/tusharsemwal/)
 [<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/1369267.png" />](https://scholar.google.co.in/citations?user=S8QouS0AAAAJ&hl=en)
-[<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/twitter.png" />](https://twitter.com/node_tushar)
+[<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/twitter.png" />](https://twitter.com/tushar__semwal)
 <!--
 
 **tushar-semwal/tushar-semwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
