@@ -5,11 +5,21 @@
 - 🏗️ Post-Doc from The University of Edinburgh, Scotland, UK.
 - 🏙️ Fortunate to lived/living in lovely cities - Dehradun-Delhi-Guwahati (India), Edinburgh (UK), Berlin (Germany)
 
-[<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/1200px-Linkedin.svg.png" />](https://www.linkedin.com/in/tusharsemwal/)
+[<p align='center'><img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/1200px-Linkedin.svg.png" />](https://www.linkedin.com/in/tusharsemwal/)
 [<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/1369267.png" />](https://scholar.google.co.in/citations?user=S8QouS0AAAAJ&hl=en)
-[<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/twitter.png" />](https://twitter.com/tushar__semwal)
+[<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/twitter.png" /></p>](https://twitter.com/tushar__semwal)
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 <!--
-
 **tushar-semwal/tushar-semwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
