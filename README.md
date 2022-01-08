@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🏛️ I’m an Applied Scientist II at Microsoft India Development Centre (Search Technology Centre India)
-- 🔭 I’m currently working on Graph Intelligence, Ranking, and Recommendations through Machine Learning (shallow and deep)
-- 🏫 I received my PhD and Masters from the Dept. of Computer Science and Engineering, Indian Institute of Technology Guwahati (IITG)
-- 🏙️ I have lived in lovely cities - Dehradun-Delhi-Guwahati (India), Edinburgh (UK), Berlin (Germany)
+- 🔭 Currently working on Graph Intelligence, Ranking, and Recommendations through Machine Learning (shallow and deep)
+- 🏫 PhD and Masters from the Dept. of Computer Science and Engineering, Indian Institute of Technology Guwahati (IITG)
+- 🏙️ Fortunate to lived/living in lovely cities - Dehradun-Delhi-Guwahati (India), Edinburgh (UK), Berlin (Germany)
 
 [<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/1200px-Linkedin.svg.png" />](https://www.linkedin.com/in/tusharsemwal/)
 [<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/1369267.png" />](https://scholar.google.co.in/citations?user=S8QouS0AAAAJ&hl=en)
