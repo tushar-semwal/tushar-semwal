@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🏛️ I’m an Applied Scientist II at Microsoft India Development Centre (Search Technology Centre India).
 - 🔭 I’m currently working on Graph Intelligence, Ranking, and Recommendations through Machine Learning (shallow and deep)
-- 👯 I’m looking to collaborate on research related to my work interest.
 
 
 <!--
