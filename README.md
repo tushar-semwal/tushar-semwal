@@ -14,7 +14,7 @@
 ### Blogs
 I enjoy writing and have now started to collect them here. I hope to continue this [atomic habit](https://jamesclear.com/atomic-habits).
 
-- [Setting up Chirpstack.io LoRaWAN Nanogateway using LoPy and RPi3]()
+- [Setting up Chirpstack.io LoRaWAN Nanogateway using LoPy and RPi3](https://github.com/tushar-semwal/tushar-semwal/blob/main/blogs/blog1/README.md)
   
   
   
