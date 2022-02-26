@@ -11,6 +11,7 @@
 [<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/imgs/twitter.png" /></p>](https://twitter.com/tushar__semwal)
  
 ### News
+- [Feb 2022] Invited talk on Privacy-aware Machine Learning on Data you Cannot SEE, organised by SAB, IIT Guwahati (alma mater).
 - [Nov. 2021](https://www.edinburghnews.scotsman.com/news/transport/study-finds-edinburghs-20mph-limits-won-majority-support-on-twitter-policymakers-should-be-less-concerned-about-public-backlash-say-researchers-3458929): My research work, while I was a part of the University of Edinburgh, has been covered in one of the major news papers of Scotland.
 - [Nov. 2021](https://www.linkedin.com/posts/tusharsemwal_engineering-covid-edinburgh-activity-6861717386605666304-AOOw): I received the Engineering COVID-19 Medal award from the University of Edinburgh.
 - [Oct. 2021](https://link.springer.com/article/10.1186/s12889-021-12259-6): My first social-computer-sciences interdisciplinary research work got published in BMC, and is co-authored with eminent senior researchers. 
