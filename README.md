@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🏛️ I’m an Applied Scientist II at Microsoft India Development Centre (Search Technology Centre India)
+- 🏛️ I’m a Senior Applied Scientist at Microsoft India Development Centre, MSAI (Microsoft Search Assistance and Intelligence)
 - 🔭 I am currently working on Graph Intelligence, Ranking, and Recommendations through Machine Learning (shallow and deep)
 - 🏫 I received my PhD (2019) and Masters (2015) from the Dept. of Computer Science and Engineering, Indian Institute of Technology Guwahati (IITG)
 - 🏗️ Before joining Microsoft, I was a Post-Doc at The University of Edinburgh, Scotland, UK
