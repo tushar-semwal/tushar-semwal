@@ -11,6 +11,8 @@
 [<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/imgs/twitter.png" /></p>](https://twitter.com/tushar__semwal)
  
 ### News
+- Dec 2023: Invited tutorial session on Graph Learning organised by LBRCE, Vijaywada. Delivered a successfull lecture to 300+ students and faculty members.
+- Sept 2023: I got promoted to a senior.
 - Dec 2022: Invited tutorial on Federated Graph Learning organised by IIIT Hyderbad.
 - Feb 2022: Invited talk on Privacy-aware Machine Learning on Data you Cannot SEE, organised by SAB, IIT Guwahati (alma mater).
 - [Nov. 2021](https://www.edinburghnews.scotsman.com/news/transport/study-finds-edinburghs-20mph-limits-won-majority-support-on-twitter-policymakers-should-be-less-concerned-about-public-backlash-say-researchers-3458929): My research work, while I was a part of the University of Edinburgh, has been covered in one of the major news papers of Scotland.
