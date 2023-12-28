@@ -4,12 +4,9 @@
 - 🏫 I received my PhD (2019) and Masters (2015) from the Dept. of Computer Science and Engineering, Indian Institute of Technology Guwahati (IITG)
 - 🏗️ Before joining Microsoft, I was a Post-Doc at The University of Edinburgh, Scotland, UK
 - 🏙️ I am fortunate to be living/lived in lovely cities - Dehradun-Delhi-Guwahati-Hyderabad (India), Edinburgh (UK), Berlin (Germany)
-- Checkout my [<img alt="LinkedIn" width="20px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/imgs/1200px-Linkedin.svg.png">](https://www.linkedin.com/in/tusharsemwal/) profile to know more about me 🙋. 
-- For my latest research publications: [<img alt="LinkedIn" width="20px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/imgs/1369267.png" />](https://scholar.google.co.in/citations?user=S8QouS0AAAAJ&hl=en)
-[<p align='center'><img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/imgs/1200px-Linkedin.svg.png" />](https://www.linkedin.com/in/tusharsemwal/)
-[<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/imgs/1369267.png" />](https://scholar.google.co.in/citations?user=S8QouS0AAAAJ&hl=en)
-[<img alt="LinkedIn" width="40px" src="https://github.com/tushar-semwal/tushar-semwal/blob/main/imgs/twitter.png" /></p>](https://twitter.com/tushar__semwal)
- 
+- Checkout my [LinkedIn](https://www.linkedin.com/in/tusharsemwal/) profile to know more about me 🙋. 
+- For my latest research publications: [Google Scholar](https://scholar.google.co.in/citations?user=S8QouS0AAAAJ&hl=en)
+
 ### News
 - Dec 2023: Invited tutorial session on Graph Learning organised by LBRCE, Vijaywada. Delivered a successfull lecture to 300+ students and faculty members.
 - Sept 2023: I got promoted to a senior.
